@@ -23,7 +23,8 @@ The course is Free to join for anyone who is interested. It can be joined and le
 | Date | Topic | Recorded Video | Assignment |
 | ------ | ------ | ------ | ------ | 
 | Mon, Jan-4-2021 | Getting started with Python | [Recorded Video](https://youtu.be/C9_ME3i1WtY) | Install Thonny and Python |
-| Wed, Jan-6-2021 | Writing your first Python program | [Recorded Video](https://youtu.be/1NTbAYtGnAA) | Random number generator
-| Mon, Jan-11-2021 | Python Strings (Part 1) | [Recorded Video](https://youtu.be/OZoUsCL4SBs) | [Codingbat string1](https://codingbat.com/java/String-1)
-| Wed, Jan-13-2021 | Python Strings (Part 2) |  [Recorded Video](https://youtu.be/hQ00N1U3xZ0) | No Assignment
-| Wed, Jan-20-2021 | Booleans and Conditional Logic | [Recorded Video](https://youtu.be/oMe8ivlZluU) | [string1.py](https://github.com/letsbrewcode/python/blob/master/strings/string1.py), [swap_chars.py](https://github.com/letsbrewcode/python/blob/master/strings/swap_chars.py)
+| Wed, Jan-6-2021 | Writing your first Python program | [Recorded Video](https://youtu.be/1NTbAYtGnAA) | Random number generator |
+| Mon, Jan-11-2021 | Python Strings (Part 1) | [Recorded Video](https://youtu.be/OZoUsCL4SBs) | [Codingbat string1](https://codingbat.com/java/String-1) |
+| Wed, Jan-13-2021 | Python Strings (Part 2) |  [Recorded Video](https://youtu.be/hQ00N1U3xZ0) | No Assignment |
+| Wed, Jan-20-2021 | Booleans and Conditional Logic | [Recorded Video](https://youtu.be/oMe8ivlZluU) | [string1.py](https://github.com/letsbrewcode/python/blob/master/strings/string1.py), [swap_chars.py](https://github.com/letsbrewcode/python/blob/master/strings/swap_chars.py) |
+| Mon, Jan-25-2021 | Looping in Python | [Recorded Video](https://youtu.be/TIlB5np29jw) | [Codingbat string1](https://codingbat.com/java/String-1), [string2.py](https://github.com/letsbrewcode/python/blob/master/strings/string2.py) |
