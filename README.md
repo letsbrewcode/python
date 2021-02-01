@@ -29,3 +29,73 @@ The course is Free to join for anyone who is interested. It can be joined and le
 | Wed, Jan-20-2021 | Booleans and Conditional Logic | [Recorded Video](https://youtu.be/oMe8ivlZluU) | [string1.py](https://github.com/letsbrewcode/python/blob/master/strings/string1.py), [swap_chars.py](https://github.com/letsbrewcode/python/blob/master/strings/swap_chars.py) |
 | Mon, Jan-25-2021 | Looping in Python | [Recorded Video](https://youtu.be/TIlB5np29jw) | [Codingbat string2](https://codingbat.com/java/String-2), [string2.py](https://github.com/letsbrewcode/python/blob/master/strings/string2.py) |
 |Wed, Jan-27-2021|Python Lists and Tuples (Part -1)|[Recorded Video](https://youtu.be/yO7K1fKEjdA)|[Codingbat list1](https://codingbat.com/python/List-1), [list1.py](https://github.com/letsbrewcode/python/blob/master/lists/list1.py)|
+
+# Syllabus
+### 1. Python Setup, Basics and Code Execution
+ - Python Setup, Basics and Code Execution
+ - Install and Setup Python
+ - Executing Python Code
+ - Playing with Python Shell
+ - Basics of Python
+ - Getting help using dir and help
+ - print Function
+ - Python Numbers, Decimals and Fractions
+ - Python Syntax and use of Indentation
+ - Command Line Arguments
+ - Survey of Built-in Modules
+### 2. Python Core Data Types
+ - Strings
+ - Lists
+ - Tuples
+ - Dictionaries
+ - Files
+ - Sets
+### 3. Boolean Type
+ - Mutable and Immutable types
+ - Conditional Logic
+ - Boolean Expressions
+ - Boolean Operators
+ - `if`/`else` statements
+ - `if`/`elif`/`else` statements
+ - Ternary statements
+ - `in` membership
+### 4. Looping in Python
+ - Iterators Basics
+ - `range`
+ - `for` Loop
+ - `while` Loop
+### 5. Functions
+ - Argument Unpacking
+ - Scopes - `local`, `global` and `nonlocal` scope
+ - Arguments - Positional, Default, Variable Length, Keyword Arguments
+ - Lambdas
+ - Polymorphism
+### 6. Error Handling
+ - Error Handling mechanism in Python
+ - try/except Block
+ - Basic Error types
+ - Throwing Errors in Code
+### 7. Python Modules
+ - Creating Modules
+ - Importing and Reloading Modules
+ - Type of Imports
+ - Useful Modules - (`sys`, `urllib3`, `random`, `os`, `requests`)
+### 8. Classes and OOP
+ - OOP Introduction
+ - Classes and Objects
+ - Polymorphism
+ - Operator overloading
+ - Function overriding
+ - Inheritance
+### 9. Python Regular Expressions (Regex)
+ - Basic Regex Theory
+ - Common patterns
+ - `search`, `findall`, `group`
+### 10. Advanced Topics (Can be changed..)
+ - Lists Comprehensions
+ - Generator Expressions
+ - Generator Functions
+ - Decorators
+ - Timing Utilities
+ - Unit Testing in Python
+ - Multi-Threading
