@@ -1,7 +1,7 @@
 # Problems
 
 ### Count letters
-Given an input string, count the occurrence of each letter in the string. Output the letters in following format
+Given an input string, count the occurrence of each letter in the string. Ignore the spaces. Output the letters in following format
 `<letter> : <count>`
 > Example</br>
 `Input: 'abcaacbbcbcb'`</br>
@@ -11,7 +11,7 @@ Given an input string, count the occurrence of each letter in the string. Output
 `c : 4`</br>
 
 ### Count letters - Reverse Sorted
-Given an input string, count the occurrence of each letter in the string. Output the letters in following format. The order of letters should be in descending order by count, i.e. the letter having the most count should be at top.
+Given an input string, count the occurrence of each letter in the string. Ignore the spaces. Output the letters in following format. The order of letters should be in descending order by count, i.e. the letter having the most count should be at top.
 `<letter> : <count>`
 > Example</br>
 `Input: 'abcaacbbcbcb'`</br>
