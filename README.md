@@ -29,6 +29,7 @@ The course is Free to join for anyone who is interested. It can be joined and le
 | Wed, Jan-20-2021 | Booleans and Conditional Logic | [Recorded Video](https://youtu.be/oMe8ivlZluU) | [string1.py](https://github.com/letsbrewcode/python/blob/master/strings/string1.py), [swap_chars.py](https://github.com/letsbrewcode/python/blob/master/strings/swap_chars.py) |
 | Mon, Jan-25-2021 | Looping in Python | [Recorded Video](https://youtu.be/TIlB5np29jw) | [Codingbat string2](https://codingbat.com/java/String-2), [string2.py](https://github.com/letsbrewcode/python/blob/master/strings/string2.py) |
 |Wed, Jan-27-2021|Python Lists and Tuples (Part -1)|[Recorded Video](https://youtu.be/yO7K1fKEjdA)|[Codingbat list1](https://codingbat.com/python/List-1), [list1.py](https://github.com/letsbrewcode/python/blob/master/lists/list1.py)|
+| Mon, Feb-1-2021 | Python Lists (Part - 2) | [Recorded Video](https://youtu.be/PtezijhM90E) | [list2.py](https://github.com/letsbrewcode/python/blob/master/lists/list2.py), Explore functions - join, split, map, filter |
 
 # Syllabus
 ### 1. Python Setup, Basics and Code Execution
