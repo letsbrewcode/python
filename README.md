@@ -30,6 +30,8 @@ The course is Free to join for anyone who is interested. It can be joined and le
 | Mon, Jan-25-2021 | Looping in Python | [Recorded Video](https://youtu.be/TIlB5np29jw) | [Codingbat string2](https://codingbat.com/java/String-2), [string2.py](https://github.com/letsbrewcode/python/blob/master/strings/string2.py) |
 |Wed, Jan-27-2021|Python Lists and Tuples (Part -1)|[Recorded Video](https://youtu.be/yO7K1fKEjdA)|[Codingbat list1](https://codingbat.com/python/List-1), [list1.py](https://github.com/letsbrewcode/python/blob/master/lists/list1.py)|
 | Mon, Feb-1-2021 | Python Lists (Part - 2) | [Recorded Video](https://youtu.be/PtezijhM90E) | [list2.py](https://github.com/letsbrewcode/python/blob/master/lists/list2.py), Research `join`, `split`, `map`, `filter` |
+| Wed, Feb-3-2021 | Python Dictionaries | [Recorded Video](https://youtu.be/xiT_zWe993k) | [Count Letters](https://github.com/letsbrewcode/python/blob/master/dictionaries/count_letters.py), [Count Letters - Sorted](https://github.com/letsbrewcode/python/blob/master/dictionaries/count_letters_sorted.py) |
+| Mon, Feb-8-2021 | Python Dicts, Sets and Files | [Recorded Video](https://youtu.be/dX4ZtBY8RY8) | [Word Count](https://github.com/letsbrewcode/python/blob/master/dictionaries/word_count.py), [Unique Chars](https://github.com/letsbrewcode/python/blob/master/sets/unique_chars.py) |
 
 # Syllabus
 ### 1. Python Setup, Basics and Code Execution
