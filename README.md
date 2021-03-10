@@ -35,10 +35,10 @@ The course is Free to join for anyone who is interested. It can be joined and le
 | Wed, Feb-10-2021 | Intro to Python Functions | [Recorded Video](https://youtu.be/KxoJFDYNXig) | No Assignment |
 | Wed, Feb-17-2021 | Python Functions - Arguments | [Recorded Video](https://youtu.be/CK670p81iLc) | No Assignment |
 | Mon, Feb-22-2021 | Lambdas, Generator Functions and Expressions | [Recorded Video](https://youtu.be/BazgJqm8q5o) | No Assignment |
-| Wed, Feb-24-2021 | Error Handling in Python | Recorded Video | No Assignment |
-| Mon, Mar-1-2021 | Python Modules | Recorded Video | No Assignment |
-| Wed, Mar-3-2021 | Python Classes and OOP - Part 1 | Recorded Video | No Assignment |
-| Mon, Mar-8-2021 | Python Classes and OOP - Part 2 | Recorded Video | No Assignment |
+| Wed, Feb-24-2021 | Error Handling in Python | [Recorded Video](https://youtu.be/J48BMxFDae4) | No Assignment |
+| Mon, Mar-1-2021 | Python Modules | [Recorded Video](https://youtu.be/ekJDhnTalGg) | No Assignment |
+| Wed, Mar-3-2021 | Python Classes and OOP - Part 1 | [Recorded Video](https://youtu.be/wiAihv6udqE) | No Assignment |
+| Mon, Mar-8-2021 | Python Classes and OOP - Part 2 | [Recorded Video](https://youtu.be/wiAihv6udqE) | No Assignment |
 | Wed, Mar-10-2021 | Python Classes and OOP - Part 3 | Recorded Video | No Assignment |
 | Mon, Mar-15-2021 | Python Regular Expressions - I | Recorded Video | No Assignment |
 | Wed, Mar-17-2021 | Python Regular Expressions - II | Recorded Video | No Assignment |
